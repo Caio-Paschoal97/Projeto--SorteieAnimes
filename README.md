@@ -2,6 +2,8 @@
 
 Projeto simples que sorteia um anime aleatório utilizando a API Jikan.
 
+Acesse: [Sorteie Animes](https://sorteieanimes.netlify.app/)
+
 ## 🚀 Tecnologias
 
 - HTML
